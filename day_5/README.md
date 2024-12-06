@@ -1,0 +1,5 @@
+This year, we're celebrating Christmas in the Southern Hemisphere! Which beaches are expected to have temperatures above 30°C on Christmas Day?
+
+Table name: beach_temperature_predictions
+
+<table class="chakra-table css-5605sr"><thead class="css-0"><tr class="css-0"><th class="css-19iw99a">beach_name</th><th class="css-19iw99a">country</th><th class="css-19iw99a">expected_temperature_c</th><th class="css-19iw99a">date</th></tr></thead><tbody class="css-0"><tr class="css-0"><td class="css-x7usx6">Bondi Beach</td><td class="css-x7usx6">Australia</td><td class="css-x7usx6">32</td><td class="css-x7usx6">2024-12-24</td></tr><tr class="css-0"><td class="css-x7usx6">Copacabana Beach</td><td class="css-x7usx6">Brazil</td><td class="css-x7usx6">28</td><td class="css-x7usx6">2024-12-24</td></tr><tr class="css-0"><td class="css-x7usx6">Clifton Beach</td><td class="css-x7usx6">South Africa</td><td class="css-x7usx6">31</td><td class="css-x7usx6">2024-12-25</td></tr><tr class="css-0"><td class="css-x7usx6">Brighton Beach</td><td class="css-x7usx6">New Zealand</td><td class="css-x7usx6">25</td><td class="css-x7usx6">2024-12-25</td></tr></tbody></table>
