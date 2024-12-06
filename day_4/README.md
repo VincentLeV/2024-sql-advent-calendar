@@ -1,0 +1,9 @@
+You’re planning your next ski vacation and want to find the best regions with heavy snowfall. Given the tables resorts and snowfall, find the average snowfall for each region and sort the regions in descending order of average snowfall. Return the columns region and average_snowfall.
+
+Table name: ski_resorts
+
+<table class="chakra-table css-5605sr"><thead class="css-0"><tr class="css-0"><th class="css-19iw99a">resort_id</th><th class="css-19iw99a">resort_name</th><th class="css-19iw99a">region</th></tr></thead><tbody class="css-0"><tr class="css-0"><td class="css-x7usx6">1</td><td class="css-x7usx6">Snowy Peaks</td><td class="css-x7usx6">Rocky Mountains</td></tr><tr class="css-0"><td class="css-x7usx6">2</td><td class="css-x7usx6">Winter Wonderland</td><td class="css-x7usx6">Wasatch Range</td></tr><tr class="css-0"><td class="css-x7usx6">3</td><td class="css-x7usx6">Frozen Slopes</td><td class="css-x7usx6">Alaska Range</td></tr><tr class="css-0"><td class="css-x7usx6">4</td><td class="css-x7usx6">Powder Paradise</td><td class="css-x7usx6">Rocky Mountains</td></tr></tbody></table>
+
+Table name: snowfall
+
+<table class="chakra-table css-5605sr"><thead class="css-0"><tr class="css-0"><th class="css-19iw99a">resort_id</th><th class="css-19iw99a">snowfall_inches</th></tr></thead><tbody class="css-0"><tr class="css-0"><td class="css-x7usx6">1</td><td class="css-x7usx6">60</td></tr><tr class="css-0"><td class="css-x7usx6">2</td><td class="css-x7usx6">45</td></tr><tr class="css-0"><td class="css-x7usx6">3</td><td class="css-x7usx6">75</td></tr><tr class="css-0"><td class="css-x7usx6">4</td><td class="css-x7usx6">55</td></tr></tbody></table>
