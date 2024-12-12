@@ -1,0 +1,5 @@
+You are preparing holiday gifts for your family. Who in the family_members table are celebrating their birthdays in December 2024? List their name and birthday.
+
+Table name: family_members
+
+<table class="chakra-table css-5605sr"><thead class="css-0"><tr class="css-0"><th class="css-19iw99a">member_id</th><th class="css-19iw99a">name</th><th class="css-19iw99a">relationship</th><th class="css-19iw99a">birthday</th></tr></thead><tbody class="css-0"><tr class="css-0"><td class="css-x7usx6">1</td><td class="css-x7usx6">Dawn</td><td class="css-x7usx6">Sister</td><td class="css-x7usx6">2024-12-24</td></tr><tr class="css-0"><td class="css-x7usx6">2</td><td class="css-x7usx6">Bob</td><td class="css-x7usx6">Father</td><td class="css-x7usx6">2024-05-20</td></tr><tr class="css-0"><td class="css-x7usx6">3</td><td class="css-x7usx6">Charlie</td><td class="css-x7usx6">Brother</td><td class="css-x7usx6">2024-12-25</td></tr><tr class="css-0"><td class="css-x7usx6">4</td><td class="css-x7usx6">Diana</td><td class="css-x7usx6">Mother</td><td class="css-x7usx6">2024-03-15</td></tr></tbody></table>
