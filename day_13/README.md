@@ -1,0 +1,5 @@
+We need to make sure Santa's sleigh is properly balanced. Find the total weight of gifts for each recipient.
+
+Table name: gifts
+
+<table class="chakra-table css-5605sr"><thead class="css-0"><tr class="css-0"><th class="css-19iw99a">gift_id</th><th class="css-19iw99a">gift_name</th><th class="css-19iw99a">recipient</th><th class="css-19iw99a">weight_kg</th></tr></thead><tbody class="css-0"><tr class="css-0"><td class="css-x7usx6">1</td><td class="css-x7usx6">Toy Train</td><td class="css-x7usx6">John</td><td class="css-x7usx6">2.5</td></tr><tr class="css-0"><td class="css-x7usx6">2</td><td class="css-x7usx6">Chocolate Box</td><td class="css-x7usx6">Alice</td><td class="css-x7usx6">0.8</td></tr><tr class="css-0"><td class="css-x7usx6">3</td><td class="css-x7usx6">Teddy Bear</td><td class="css-x7usx6">Sophia</td><td class="css-x7usx6">1.2</td></tr><tr class="css-0"><td class="css-x7usx6">4</td><td class="css-x7usx6">Board Game</td><td class="css-x7usx6">John</td><td class="css-x7usx6">0.9</td></tr></tbody></table>
