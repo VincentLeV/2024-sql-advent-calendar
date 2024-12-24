@@ -1,0 +1,5 @@
+The Grinch tracked his weight every day in December to analyze how it changed daily. Write a query to return the weight change (in pounds) for each day, calculated as the difference from the previous day's weight.
+
+Table name: grinch_weight_log
+
+<table class="chakra-table css-5605sr"><thead class="css-0"><tr class="css-0"><th class="css-19iw99a">log_id</th><th class="css-19iw99a">day_of_month</th><th class="css-19iw99a">weight</th></tr></thead><tbody class="css-0"><tr class="css-0"><td class="css-x7usx6">1</td><td class="css-x7usx6">1</td><td class="css-x7usx6">250</td></tr><tr class="css-0"><td class="css-x7usx6">2</td><td class="css-x7usx6">2</td><td class="css-x7usx6">248</td></tr><tr class="css-0"><td class="css-x7usx6">3</td><td class="css-x7usx6">3</td><td class="css-x7usx6">249</td></tr><tr class="css-0"><td class="css-x7usx6">4</td><td class="css-x7usx6">4</td><td class="css-x7usx6">247</td></tr><tr class="css-0"><td class="css-x7usx6">5</td><td class="css-x7usx6">5</td><td class="css-x7usx6">246</td></tr><tr class="css-0"><td class="css-x7usx6">6</td><td class="css-x7usx6">6</td><td class="css-x7usx6">248</td></tr></tbody></table>
