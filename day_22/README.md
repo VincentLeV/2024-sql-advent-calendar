@@ -1,0 +1,9 @@
+We are hosting a gift party and need to ensure every guest receives a gift. Using the guests and guest_gifts tables, write a query to identify the guest(s) who have not been assigned a gift (i.e. they are not listed in the guest_gifts table).
+
+Table name: guests
+
+<table class="chakra-table css-5605sr"><thead class="css-0"><tr class="css-0"><th class="css-19iw99a">guest_id</th><th class="css-19iw99a">guest_name</th></tr></thead><tbody class="css-0"><tr class="css-0"><td class="css-x7usx6">1</td><td class="css-x7usx6">Cindy Lou</td></tr><tr class="css-0"><td class="css-x7usx6">2</td><td class="css-x7usx6">The Grinch</td></tr><tr class="css-0"><td class="css-x7usx6">3</td><td class="css-x7usx6">Max the Dog</td></tr><tr class="css-0"><td class="css-x7usx6">4</td><td class="css-x7usx6">Mayor May Who</td></tr></tbody></table>
+
+Table name: guest_gifts
+
+<table class="chakra-table css-5605sr"><thead class="css-0"><tr class="css-0"><th class="css-19iw99a">gift_id</th><th class="css-19iw99a">guest_id</th><th class="css-19iw99a">gift_name</th></tr></thead><tbody class="css-0"><tr class="css-0"><td class="css-x7usx6">1</td><td class="css-x7usx6">1</td><td class="css-x7usx6">Toy Train</td></tr><tr class="css-0"><td class="css-x7usx6">2</td><td class="css-x7usx6">1</td><td class="css-x7usx6">Plush Bear</td></tr><tr class="css-0"><td class="css-x7usx6">3</td><td class="css-x7usx6">2</td><td class="css-x7usx6">Bag of Coal</td></tr><tr class="css-0"><td class="css-x7usx6">4</td><td class="css-x7usx6">2</td><td class="css-x7usx6">Sleigh Bell</td></tr><tr class="css-0"><td class="css-x7usx6">5</td><td class="css-x7usx6">3</td><td class="css-x7usx6">Dog Treats</td></tr></tbody></table>
